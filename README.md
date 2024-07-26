@@ -52,4 +52,4 @@ Evaluate model performance using evaluate_models.ipynb.
 The results of the comparative analysis will be saved in the results/ directory. Detailed discussions and insights are provided in the results_and_discussion.ipynb notebook.
 
 # Acknowledgements   
-This project was completed as part of the final year project at Universiti Teknologi Malaysia. Special thanks to all who provided guidance and support throughout the project.
+This project was completed at Universiti Teknologi Malaysia during the final semester. Special thanks to all, especially my incredible friends, Ainin Sofiya Binti Azizi, Nurzarifah Binti Azizan, and Rohaizaazira Binti Mohd Zawawi.
