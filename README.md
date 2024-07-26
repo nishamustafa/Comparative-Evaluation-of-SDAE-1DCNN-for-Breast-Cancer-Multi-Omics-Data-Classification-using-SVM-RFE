@@ -6,7 +6,8 @@ This project presents a comparative evaluation of Stacked Denoising Autoencoder 
 # Experimental Design
 
 **Key Activities**
-Data Pre-processing
+
+Data Pre-processing   
 • Removal of null values and missing values.
 
 **Integration of Multi-omics**
@@ -34,7 +35,7 @@ Data Pre-processing
 
 # Usage
 
-**Data Pre-processing**
+**Data Pre-processing**  
 Execute the data_preprocessing.ipynb notebook to clean and prepare the data.
 
 **Integration of Multi-omics**
