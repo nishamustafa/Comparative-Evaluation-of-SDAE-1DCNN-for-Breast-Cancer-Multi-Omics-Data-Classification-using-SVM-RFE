@@ -33,19 +33,19 @@ This project presents a comparative evaluation of Stacked Denoising Autoencoder 
 
 # Usage
 
-**Data Pre-processing**  
+• **Data Pre-processing**  
 Execute the data_preprocessing.ipynb notebook to clean and prepare the data.
 
-**Integration of Multi-omics**   
+• **Integration of Multi-omics**   
 Use the integration.ipynb notebook to concatenate the datasets.
 
-**Feature Selection**   
+• **Feature Selection**   
 Run feature_selection.py to perform SVM-RFE and select features.
 
-**Model Training**   
+• **Model Training**   
 Train the SDAE and 1D-CNN models using train_sdae.py and train_1dcnn.py.
 
-**Evaluation**   
+• **Evaluation**   
 Evaluate model performance using evaluate_models.ipynb.
 
 # Results   
